@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Projeto Editora Sanar</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="curso_name">Nome do curso</string>
+    <string name="curso_area">Área do curso</string>
+    <string name="nome_modulo">Nome do módulo</string>
+    <string name="conteudo_modulo">Conteúdo do módulo</string>
+    <string name="voltar">Voltar</string>
+    <string name="titulo">Título da aula</string>
+    <string name="formato">Formato da aula</string>
+    <string name="numero_aula">Número da aula</string>
+</resources>
